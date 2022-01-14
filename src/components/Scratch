@@ -1,0 +1,9 @@
+What is the main functionality of CheckoutForm?
+   its to check out.
+   user enters their personal info
+    state is set to their info
+    on checkout state is switched to true
+    
+
+
+How can i put that into a custom hook?
